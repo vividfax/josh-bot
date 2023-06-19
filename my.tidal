@@ -1,0 +1,15 @@
+d1 $ slow 2 $ sound "808:1 world:6 d:4 sn:2 808:1 world:6 dr55:4 speedupdown:7 ht:4 bass1:5 sn:2 industrial:4 sid:5" # legato 1
+
+d2 $ slow 2 $ sound "world:9 hit:2 808:1 world:5 hit:7 speedupdown:4 bass1:4 world:4" # legato 1
+
+d3 $ slow 2 $ sound "kicklinn:9" # legato 1
+
+d4 $ slow 2 $ sound "kicklinn:5" # legato 1
+
+d5 $ slow 2 $ sound "808:3 sid:6" # legato 1
+
+d6 $ slow 2 $ sound "dr55:4 kicklinn:8 808:1 world:6 d:4" # legato 1
+
+d7 $ slow 2 $ sound "sid:3 dr55:4 ht:3 speedupdown:4 sid:2 industrial:5 bass1:5 east:4 hit:2 kicklinn:6 ht:4 808:3 gabbalouder:3 sid:2 industrial:3 industrial:5 hit:5 industrial:2 kicklinn:6 808:1 metal:5 world:6 d:4" # legato 1
+
+hush

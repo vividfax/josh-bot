@@ -1,0 +1,1 @@
+A Symbol Name is a string with exactly four parts in this order, separated by a space between each part: Size, Condition, Color, and Object. When choosing a Symbol Name, one word for each of these parts must be chosen from any row of the table below to create a valid Symbol Name
